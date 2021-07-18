@@ -1,1 +1,1 @@
-# smooth-scroll-ona-page-nav-sticky-header
+# smooth-scroll-one-page-nav-sticky-header
